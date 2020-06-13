@@ -6,7 +6,7 @@ module.exports = {
     'Manish Sombansh, Manish, Sombansh, manishsombansh, software engineer, back-end engineer, cloud computing, java, carnegie_mellon',
   siteUrl: 'https://manishsombansh.com',
   siteLanguage: 'en_US',
-  googleAnalyticsID: '',
+  googleAnalyticsID: 'UA-169310793-1',
   googleVerification: '',
   name: 'Manish Sombansh',
   location: 'San Francisco, CA',
